@@ -1,0 +1,14 @@
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Large-Projects\MethodClassAssignment\bin\Debug\net8.0\MethodClassAssignment.exe
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Large-Projects\MethodClassAssignment\bin\Debug\net8.0\MethodClassAssignment.deps.json
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Large-Projects\MethodClassAssignment\bin\Debug\net8.0\MethodClassAssignment.runtimeconfig.json
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Large-Projects\MethodClassAssignment\bin\Debug\net8.0\MethodClassAssignment.dll
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Large-Projects\MethodClassAssignment\bin\Debug\net8.0\MethodClassAssignment.pdb
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Large-Projects\MethodClassAssignment\obj\Debug\net8.0\MethodClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Large-Projects\MethodClassAssignment\obj\Debug\net8.0\MethodClassAssignment.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Large-Projects\MethodClassAssignment\obj\Debug\net8.0\MethodClassAssignment.AssemblyInfo.cs
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Large-Projects\MethodClassAssignment\obj\Debug\net8.0\MethodClassAssignment.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Large-Projects\MethodClassAssignment\obj\Debug\net8.0\MethodClassAssignment.dll
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Large-Projects\MethodClassAssignment\obj\Debug\net8.0\refint\MethodClassAssignment.dll
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Large-Projects\MethodClassAssignment\obj\Debug\net8.0\MethodClassAssignment.pdb
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Large-Projects\MethodClassAssignment\obj\Debug\net8.0\MethodClassAssignment.genruntimeconfig.cache
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Large-Projects\MethodClassAssignment\obj\Debug\net8.0\ref\MethodClassAssignment.dll
