@@ -1,0 +1,13 @@
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Large-Projects\StudentCodeFirst\bin\Debug\StudentCodeFirst.exe.config
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Large-Projects\StudentCodeFirst\bin\Debug\StudentCodeFirst.exe
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Large-Projects\StudentCodeFirst\bin\Debug\StudentCodeFirst.pdb
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Large-Projects\StudentCodeFirst\bin\Debug\EntityFramework.dll
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Large-Projects\StudentCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Large-Projects\StudentCodeFirst\bin\Debug\EntityFramework.xml
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Large-Projects\StudentCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Large-Projects\StudentCodeFirst\obj\Debug\StudentCodeFirst.csproj.AssemblyReference.cache
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Large-Projects\StudentCodeFirst\obj\Debug\StudentCodeFirst.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Large-Projects\StudentCodeFirst\obj\Debug\StudentC.883F8DAD.Up2Date
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Large-Projects\StudentCodeFirst\obj\Debug\StudentCodeFirst.exe
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Large-Projects\StudentCodeFirst\obj\Debug\StudentCodeFirst.pdb
+D:\OneDrive\Documents\GitHub\Basic-C-Sharp-Large-Projects\StudentCodeFirst\obj\Debug\StudentCodeFirst.exe.config
